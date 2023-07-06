@@ -1,0 +1,14 @@
+.piechart {
+    width: 400px !important;
+    height: 400px !important;
+}
+
+.barchart {
+    width: 600px !important;
+    height: 400px !important;
+}
+
+.linechart {
+    width: 600px !important;
+    height: 400px !important;
+}
